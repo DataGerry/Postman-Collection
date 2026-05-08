@@ -13,13 +13,7 @@
       },
       "request": {
         "method": "GET",
-        "header": [
-          {
-            "key": "x-api-key",
-            "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3ZGMyZDVhODJiMTY5YTFmMjdmZTNiNiIsInN1YnNjcmlwdGlvbklkIjoiNjdkYzJkYzQ4MmIxNjlhMWYyN2ZlM2RiIiwiaWF0IjoxNzQzMDg1MDMyLCJleHAiOjE3NDM2ODk4MzJ9.mbzrH1gcZZGwmnk_xIhk_ZF6EjErEgTnCdNgfv8zExM",
-            "type": "text"
-          }
-        ],
+        "header": [],
         "body": {
           "mode": "raw",
           "raw": "{\n    \"type_id\": \"12\",\n    \"active\": true,\n    \"author_id\": \"1\",\n    \"fields\": [\n        {\n            \"name\": \"text-98758\",\n            \"value\": \"ber1r201cl01\"\n        }\n    ]\n}",
